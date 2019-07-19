@@ -38,7 +38,7 @@ export default {
   },
   data() {
     return {
-      active:"Blog",
+      active:"Introduction",
       menuList: [
         {
           title: "自我介绍 About me",
